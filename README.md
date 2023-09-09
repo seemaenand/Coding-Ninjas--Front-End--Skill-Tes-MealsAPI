@@ -10,7 +10,7 @@ This is a recipe finder web application created as part of the Coding Ninjas ski
 <h2>Search Functionality</h2>
 Users can enter a meal name in the search bar.
 As users type, search results update dynamically, similar to Google's autocomplete.
-<h2>Display Search Results</h2>h2>
+<h2>Display Search Results</h2>
 Search results are displayed on the page, showing meals matching the user's query.
 <h2>Add to Favorites</h2>h2>
 Each search result includes a "Favorite" button.
