@@ -1,4 +1,4 @@
-<h1>Coding Ninjas Skill Test Project: Stopwatch</h1>
+<h1>Coding Ninjas Skill Test Project: Meals API</h1>
 <h3>Meals API / Recipe Finder</h3>
 
 <h4>Description</h4>
