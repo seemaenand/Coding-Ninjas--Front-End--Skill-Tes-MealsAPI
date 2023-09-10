@@ -20,7 +20,8 @@ Users can click on a meal from the search results to view detailed information a
 Details include the meal's name, photo, instructions, and more.
 
 <h4>Demo</h4>
-You can check the site here: 
+You can check the site here: bit.ly/3LgS8Ys
+
 
 <h4>Contributing</h4>
 If you'd like to contribute to this project, please follow these guidelines:
